@@ -10,5 +10,5 @@ DICOM images are a special type of image used by the medical field that holds mo
 information than just the image itself (patient name, age, height, weight, etc). 
 This data has been stripped of patient data for HIPAA and privacy reasons.
 
-Our data is too large to be uploaded to GitHub, so it can be found at:
+Our data is too large to be uploaded to GitHub, but it can be found at:
 https://www.kaggle.com/c/rsna-pneumonia-detection-challenge/data?select=stage_2_test_images
